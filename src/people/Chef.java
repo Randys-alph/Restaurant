@@ -1,6 +1,8 @@
-package main;
+package people;
 
 import java.util.HashMap;
+
+import restaurant.Food;
 
 public class Chef {
 	private String name;
@@ -42,3 +44,4 @@ public class Chef {
 		System.out.println();
 	}
 }
+

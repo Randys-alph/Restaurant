@@ -1,4 +1,4 @@
-package main;
+package people;
 
 import restaurant.Restaurant;
 
@@ -35,3 +35,4 @@ public class Visitor {
 		System.out.println();
 	}
 }
+
